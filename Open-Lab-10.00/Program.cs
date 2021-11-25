@@ -8,7 +8,7 @@ namespace Open_Lab_10._00
         {
             Book LOTR = new Book();
             LOTR.title = "Title";    
-            Console.WriteLine(LOTR);
+            Console.WriteLine(LOTR.title);
         }
     }
     class Book
